@@ -14,21 +14,27 @@ Welcome to **Ed-Tech-Club** – a beginner-friendly platform to learn HTML throu
 - HTML live editor with real-time output
 - Practice problems and hints
 - Code saving (for logged-in users)
-- ![image](https://github.com/user-attachments/assets/f83df647-4fb2-450a-84d2-bef31e818f53)
+![image](https://github.com/user-attachments/assets/f83df647-4fb2-450a-84d2-bef31e818f53)
 
 
 💻 **Interactive Code Playground**  
   Practice what you learn with an in-browser HTML editor and live preview.
+  
 ![image](https://github.com/user-attachments/assets/4381329c-f506-4c6f-9cd7-180f21fb683c)
 
-Explore more through our websites💻
+Explore a World of Learning with Us 💻
+
 ![image](https://github.com/user-attachments/assets/52b5c377-a624-42ac-9a04-b7c4569b985d)
 
-Test Your Pragram Knowledge
-![image](https://github.com/user-attachments/assets/5833b954-12c0-4828-8cee-75df6a696361)
-Get Rating
-![image](https://github.com/user-attachments/assets/7f0b43a7-1048-4ac7-b1dc-2d8e4dcc67bf)
+Put Your Programming Knowledge to the Test!
 
+![image](https://github.com/user-attachments/assets/5833b954-12c0-4828-8cee-75df6a696361)
+
+
+Get Your Coding Rating!
+
+
+![image](https://github.com/user-attachments/assets/7f0b43a7-1048-4ac7-b1dc-2d8e4dcc67bf)
 
 
 
